@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5eb26d050a3dfb40965103785940417, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  SpeedBullet: 1
+  DetelingBulletX: 4
+  DetelingBulletY: 4
+  DetelingBulletZ: 4
+  ButlletMaterials:
+  - {fileID: 2100000, guid: 7427a92e691dd5c499ed47db9687f897, type: 2}
+  - {fileID: 2100000, guid: 7427a92e691dd5c499ed47db9687f897, type: 2}
+  - {fileID: 2100000, guid: 7427a92e691dd5c499ed47db9687f897, type: 2}
+  - {fileID: 2100000, guid: 7427a92e691dd5c499ed47db9687f897, type: 2}
+  - {fileID: 2100000, guid: 7427a92e691dd5c499ed47db9687f897, type: 2}
+  - {fileID: 2100000, guid: 7427a92e691dd5c499ed47db9687f897, type: 2}
+  MinSizeBullet: 0.5
+  MaxSizeBullet: 2
+  RandomMeshGenerator: 0.5
+  BulletEffect: {fileID: 100000, guid: d954ed914d08a1a41b15bc0922492e89, type: 3}
+  IsUseShakeCamera: 1
